@@ -1,0 +1,87 @@
+
+body {
+  font-size: 26px;
+  font-family: 'Permanent Marker', cursive;
+  background-image: url("http://starkovtattoo.spb.ru/images/100/DSC100127925.jpg");
+  height: auto;
+  overflow: scroll;
+  
+ } 
+ 
+  
+
+.wrap{
+  opacity: .99;
+  background-color: gray;  
+  border: 2px solid black;
+  border-style: solid;
+  padding: 2%;
+  color:white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  height: auto;
+}
+  
+  
+  
+
+.header{
+
+  width: 100%;
+         height: 30vh;
+         background-image: url("https://cdn.shopify.com/s/files/1/0257/6087/collections/PS_LP_Marvel_1920x387_D_1024x.jpg?v=1525359388");
+         background-size: cover;
+         background-position-y: 50%;
+         background-position-x: 40%;
+}
+
+.comic1{
+  width: 100% !important;
+  height: 400px !important;
+}
+
+h1,h2{
+  text-align: center;
+}
+
+.comic2{
+  width: 300px !important;
+  height:300px !important;
+}
+
+#comic-title{
+  color:black;
+}
+
+.comic{
+  background-color: rgb(197, 158, 158);
+  border: 1px solid #333;
+  border-radius: 10px;
+  height: 250px;
+  margin: 20px;
+  padding: 10px;
+  color:black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.comic-thumbnail-container{
+  float: left;
+  margin: 10px;
+}
+
+.comic-data-container{
+  float: left;
+  margin: 10px;
+}
+
+
+
+.comic-thumbnail{
+  width: 150px;
+}
+
